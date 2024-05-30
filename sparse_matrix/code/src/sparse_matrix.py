@@ -69,8 +69,8 @@ class SparseMatrix:
             print()
 
 if __name__ == "__main__":
-    matrix1 = SparseMatrix(matrixFilePath="sparse_matrix_input1.txt")
-    matrix2 = SparseMatrix(matrixFilePath="sparse_matrix_input2.txt")
+    matrix1 = SparseMatrix(matrixFilePath="easy_sample_01_1.txt")
+    matrix2 = SparseMatrix(matrixFilePath="easy_sample_01_2.txt")
 
     # Addition
     try:
