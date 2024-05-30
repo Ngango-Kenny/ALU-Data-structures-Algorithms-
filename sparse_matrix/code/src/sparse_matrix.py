@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class SparseMatrix:
     def __init__(self, matrixFilePath=None, numberRows=None, numberCols=None):
         if matrixFilePath:
